@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivimouret29&show_icons=true&theme=dark)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivimouret29&repo=bot_discord&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivimouret29&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vivimouret29&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vivimouret29/vivimouret29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -17,6 +17,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivimouret29&langs_count=10&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vivimouret29&theme=dark&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **vivimouret29/vivimouret29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

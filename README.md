@@ -2,7 +2,7 @@
 ## Badges
 
 ![Discord](https://img.shields.io/discord/818449610090741771)
-[![wakatime](https://wakatime.com/badge/user/f80f0750-f2e7-475a-a857-7e891df542a1.svg)](https://wakatime.com/@f80f0750-f2e7-475a-a857-7e891df542a1)
+![wakatime](https://wakatime.com/badge/user/f80f0750-f2e7-475a-a857-7e891df542a1.svg)
 ![GitHub followers](https://img.shields.io/github/followers/vivimouret29)
 ![GitHub User's stars](https://img.shields.io/github/stars/vivimouret29)
 ![Twitch Status](https://img.shields.io/twitch/status/daftmob)

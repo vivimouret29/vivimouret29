@@ -11,13 +11,13 @@
 
 ## Stats
 
-[![Vivien's_GitHub_Stats](https://github-readme-stats.vercel.app/api?username=vivimouret29&show_icons=true&theme=dark)]
+![Vivien's_GitHub_Stats](https://github-readme-stats.vercel.app/api?username=vivimouret29&show_icons=true&theme=dark)
 
-[![Favorite_Repo](https://github-readme-stats.vercel.app/api/pin/?username=vivimouret29&repo=mast1_ai&theme=dark)](https://github.com/vivimouret29/mast1_ai)
+![Favorite_Repo](https://github-readme-stats.vercel.app/api/pin/?username=vivimouret29&repo=mast1_ai&theme=dark)
 
-[![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivimouret29&langs_count=10&theme=dark&layout=compact)]
+![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivimouret29&langs_count=10&theme=dark&layout=compact)
 
-[![Wakatime_Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vivimouret29&theme=dark&layout=default)](https://wakatime.com/dashboard)
+![Wakatime_Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vivimouret29&theme=dark&layout=default)
 
 
 <!--

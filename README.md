@@ -2,7 +2,7 @@
 ## Badges
 
 [![Discord](https://img.shields.io/discord/818449610090741771)](https://discord.gg/abNbgfBfRY)
-[![wakatime](https://wakatime.com/badge/user/f80f0750-f2e7-475a-a857-7e891df542a1.svg)](https://github-readme-stats.vercel.app/api/top-langs/?username=vivimouret29&langs_count=10&theme=dark&layout=compact)
+[![wakatime](https://wakatime.com/badge/user/f80f0750-f2e7-475a-a857-7e891df542a1.svg)](https://github-readme-stats.vercel.app/api/wakatime?username=vivimouret29&theme=dark&layout=default)
 [![GitHub followers](https://img.shields.io/github/followers/vivimouret29)](https://github.com/vivimouret29?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/vivimouret29)](https://github.com/vivimouret29/bot_discord/stargazers)
 [![Twitch Status](https://img.shields.io/twitch/status/daftmob)](https://www.twitch.tv/daftmob)

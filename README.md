@@ -30,7 +30,7 @@
 </div>
 <br>
 <div align="center">
-    <a href="">
+    <a href="https://img.shields.io/conda/pn/conda-forge/py">
         <img alt="Conda" src="https://img.shields.io/conda/pn/conda-forge/py">
     </a>
 </div>
@@ -51,7 +51,7 @@
     <a href="https://twitter.com/OldMemeArchive/status/1450096443490983946">
         <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fjustviivs" />
     </a>
-    <a href="https://twitter.com/batteryli/status/1478975562681286657">
+    <a href="https://twitter.com/justviivs">
         <img src="https://img.shields.io/twitter/follow/justviivs?style=social" />
     </a>
 </div>
@@ -61,8 +61,6 @@
         <img src="https://img.shields.io/reddit/user-karma/combined/NumerousBreakfast119" />
     </a>
 </div>
-<br>
-
 <br>
 <h1 align="center">
     Stats

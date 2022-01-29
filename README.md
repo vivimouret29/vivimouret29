@@ -1,28 +1,101 @@
-# Hi there 👋
-## Badges
+<h1 align="center">
+    Badges
+</h1>
+<br>
+<div align="center">
+    <a href="https://github.com/vivimouret29/mast1_ai">
+        <img src="https://img.shields.io/github/languages/top/vivimouret29/mast1_ai">
+    </a>
+    <a href="https://github.com/vivimouret29/bot_discord">
+        <img src="https://img.shields.io/github/languages/top/vivimouret29/bot_discord">
+    </a>
+    <a href="https://github.com/vivimouret29/CustomisedRandomPhoto">
+        <img src="https://img.shields.io/github/languages/top/vivimouret29/CustomisedRandomPhoto">
+    </a>
+</div>
+<br>
+<div align="center">
+    <a href="https://github.com/vivimouret29?tab=followers">
+        <img src="https://img.shields.io/github/followers/vivimouret29" />
+    </a>
+    <a href="https://github.com/vivimouret29/bot_discord/stargazers">
+        <img src="https://img.shields.io/github/stars/vivimouret29" />
+    </a>
+</div>
+<br>
+<div align="center">
+    <a href="https://github-readme-stats.vercel.app/api/wakatime?username=vivimouret29&theme=dark&layout=default">
+        <img src="https://wakatime.com/badge/user/f80f0750-f2e7-475a-a857-7e891df542a1.svg" />
+    </a>
+</div>
+<br>
+<div align="center">
+    <a href="https://discord.gg/abNbgfBfRY">
+        <img src="https://img.shields.io/discord/818449610090741771" />
+    </a>
+</div>
+<br>
+<div align="center">
+    <a href="https://www.twitch.tv/daftmob">
+        <img src="https://img.shields.io/twitch/status/daftmob" />
+    </a>
+</div>
+<br>
+<div align="center">
+    <a href="https://twitter.com/OldMemeArchive/status/1450096443490983946">
+        <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fjustviivs" />
+    </a>
+</div>
+<br>
+<div align="center">
+    <a href="https://www.reddit.com/user/NumerousBreakfast119">
+        <img src="https://img.shields.io/reddit/user-karma/combined/NumerousBreakfast119" />
+    </a>
+</div>
+<br>
 
-[![Discord](https://img.shields.io/discord/818449610090741771)](https://discord.gg/abNbgfBfRY)
-[![wakatime](https://wakatime.com/badge/user/f80f0750-f2e7-475a-a857-7e891df542a1.svg)](https://github-readme-stats.vercel.app/api/wakatime?username=vivimouret29&theme=dark&layout=default)
-[![GitHub followers](https://img.shields.io/github/followers/vivimouret29)](https://github.com/vivimouret29?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/vivimouret29)](https://github.com/vivimouret29/bot_discord/stargazers)
-[![Twitch Status](https://img.shields.io/twitch/status/daftmob)](https://www.twitch.tv/daftmob)
-[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/NumerousBreakfast119)](https://www.reddit.com/user/NumerousBreakfast119)
-[![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fjustviivs)](https://twitter.com/OldMemeArchive/status/1450096443490983946)
+<br>
+<h1 align="center">
+    Stats
+</h1>
+<br>
+<div align="center">
+    <a href="https://github.com/vivimouret29">
+        <img src="https://github-readme-stats.vercel.app/api?username=vivimouret29&show_icons=true&theme=dark" />
+    </a>
+</div>
+<br>
+<div align="center">
+    <a href="https://github.com/vivimouret29">
+        <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivimouret29&langs_count=10&theme=dark&layout=compact" />
+    </a>
+</div>
+<br>
+<div align="center">
+    <a href="https://github.com/vivimouret29/mast1_ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivimouret29&repo=mast1_ai&theme=dark" />
+    </a>
+    <a href="https://github.com/vivimouret29/bot_discord">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivimouret29&repo=bot_discord&theme=dark" />
+    </a>
+</div>
+<br>
+<div align="center">
+    <a href="https://github.com/vivimouret29">
+        <img
+            src="https://github-readme-stats.vercel.app/api/wakatime?username=vivimouret29&theme=dark&layout=default" />
+    </a>
+</div>
+<br>
+<div align="center">
+    <i>
+        For Wakatime, Other represents my sailor Brave
+    </i>
+</div>
+<br>
 
-## Stats
-
-[![Vivien's_GitHub_Stats](https://github-readme-stats.vercel.app/api?username=vivimouret29&show_icons=true&theme=dark)](https://github.com/vivimouret29)
-
-[![Favorite_Repo](https://github-readme-stats.vercel.app/api/pin/?username=vivimouret29&repo=mast1_ai&theme=dark)](https://github.com/vivimouret29/mast1_ai)
-
-[![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivimouret29&langs_count=10&theme=dark&layout=compact)](https://github.com/vivimouret29)
-
-[![Wakatime_Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vivimouret29&theme=dark&layout=default)](https://github.com/vivimouret29)
-
-*For Wakatime, Other represents my sailor Brave*
-
-<!--
-**vivimouret29/vivimouret29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **vivimouret29/vivimouret29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -33,5 +106,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->

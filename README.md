@@ -37,7 +37,7 @@
 <br>
 <div align="center">
     <a href="https://discord.gg/abNbgfBfRY">
-        <img src="https://img.shields.io/discord/818449610090741771" />
+        <img src="https://img.shields.io/discord/658361104082272266" />
     </a>
 </div>
 <br>

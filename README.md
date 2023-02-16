@@ -3,10 +3,10 @@
 </h1>
 <br>
 <div align="center">
-    <a href="https://github.com/vivimouret29/mast1_ai">
-        <img src="https://img.shields.io/github/languages/top/vivimouret29/mast1_ai">
+    <a href="https://github.com/vivimouret29/mast2_ai">
+        <img src="https://img.shields.io/github/languages/top/vivimouret29/mast2_ai">
     </a>
-    <a href="https://github.com/vivimouret29/bot_discord">
+    <a href="https://github.com/vivimouret29/nodejs_bot">
         <img src="https://img.shields.io/github/languages/top/vivimouret29/bot_discord">
     </a>
     <a href="https://github.com/vivimouret29/CustomisedRandomPhoto">
@@ -18,7 +18,7 @@
     <a href="https://github.com/vivimouret29?tab=followers">
         <img src="https://img.shields.io/github/followers/vivimouret29" />
     </a>
-    <a href="https://github.com/vivimouret29/bot_discord/stargazers">
+    <a href="https://github.com/vivimouret29/nodejs_bot/stargazers">
         <img src="https://img.shields.io/github/stars/vivimouret29" />
     </a>
 </div>
@@ -36,7 +36,7 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://discord.gg/rj7FBEVgXr">
+    <a href="https://discord.gg/ucwnMKKxZe">
         <img src="https://img.shields.io/discord/658361104082272266" />
     </a>
 </div>
@@ -49,10 +49,10 @@
 <br>
 <div align="center">
     <a href="https://twitter.com/OldMemeArchive/status/1450096443490983946">
-        <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fjustviivs" />
+        <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdaftm0b" />
     </a>
-    <a href="https://twitter.com/justviivs">
-        <img src="https://img.shields.io/twitter/follow/justviivs?style=social" />
+    <a href="https://twitter.com/daftm0b">
+        <img src="https://img.shields.io/twitter/follow/daftm0b?style=social" />
     </a>
 </div>
 <br>
@@ -80,11 +80,11 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://github.com/vivimouret29/mast1_ai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivimouret29&repo=mast1_ai&theme=dark" />
+    <a href="https://github.com/vivimouret29/mast2_ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivimouret29&repo=mast2_ai&theme=dark" />
     </a>
-    <a href="https://github.com/vivimouret29/bot_discord">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivimouret29&repo=bot_discord&theme=dark" />
+    <a href="https://github.com/vivimouret29/nodejs_bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivimouret29&repo=nodejs_bot&theme=dark" />
     </a>
 </div>
 <br>

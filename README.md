@@ -36,27 +36,6 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://discord.gg/ucwnMKKxZe">
-        <img src="https://img.shields.io/discord/948894919878123570" />
-    </a>
-</div>
-<br>
-<div align="center">
-    <a href="https://www.twitch.tv/daftmob">
-        <img src="https://img.shields.io/twitch/status/daftmob" />
-    </a>
-</div>
-<br>
-<div align="center">
-    <a href="https://twitter.com/OldMemeArchive/status/1450096443490983946">
-        <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdaftm0b" />
-    </a>
-    <a href="https://twitter.com/daftm0b">
-        <img src="https://img.shields.io/twitter/follow/daftm0b?style=social" />
-    </a>
-</div>
-<br>
-<div align="center">
     <a href="https://www.reddit.com/user/NumerousBreakfast119">
         <img src="https://img.shields.io/reddit/user-karma/combined/NumerousBreakfast119" />
     </a>
